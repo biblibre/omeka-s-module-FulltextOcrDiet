@@ -1,6 +1,6 @@
 <?php
 
-namespace SkipExtractText;
+namespace FulltextDiet;
 
 return [
     'translator' => [
